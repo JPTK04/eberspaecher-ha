@@ -1,5 +1,5 @@
 {
-  "domain": "eberspaecher-ha",
+  "domain": "eberspaecher",
   "name": "Eberspächer Standheizung",
   "codeowners": ["@JPTK04"],
   "config_flow": false,

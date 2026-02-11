@@ -1,6 +1,6 @@
 """Constants for the Eberspächer integration."""
 
-DOMAIN = "eberspaecher-ha"
+DOMAIN = "eberspaecher"
 CONF_USERNAME = "username"
 CONF_PASSWORD = "password"
 

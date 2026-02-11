@@ -8,7 +8,7 @@ import importlib.util
 # --- IMPORT TRICK ---
 def import_api_module():
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_dir, "custom_components", "eberspaecher-ha", "api.py")
+    file_path = os.path.join(current_dir, "custom_components", "eberspaecher", "api.py")
     spec = importlib.util.spec_from_file_location("api_module", file_path)
     module = importlib.util.module_from_spec(spec)
     sys.modules["api_module"] = module
