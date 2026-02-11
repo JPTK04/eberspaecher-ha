@@ -1,7 +1,7 @@
 # Eberspächer EasyStart Web for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![version](https://img.shields.io/github/v/release/JPTK04/eberspaecher-hass)](https://github.com/JPTK04/eberspaecher-hass/releases)
+[![version](https://img.shields.io/github/v/release/JPTK04/eberspaecher-ha)](https://github.com/JPTK04/eberspaecher-ha/releases)
 
 A custom Home Assistant integration for **Eberspächer auxiliary heaters** (Standheizungen) controlled via the **EasyStart Web** portal (myeberspaecher.com).
 
@@ -29,7 +29,7 @@ This integration creates a connection between your car and Home Assistant, allow
 2.  Click the **3 dots** in the top right corner -> **Custom repositories**.
 3.  Paste the repository URL:
     ```
-    [https://github.com/JPTK04/eberspaecher-hass](https://github.com/JPTK04/eberspaecher-hass)
+    [https://github.com/JPTK04/eberspaecher-ha](https://github.com/JPTK04/eberspaecher-ha)
     ```
 4.  Select Category: **Integration**.
 5.  Click **Add**.
