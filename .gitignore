@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# JetBrains IDEs
+.idea/
+
+# Secrets and credentials
+secrets.py
+
+# Pytest cache
+.pytest_cache/
+
+# OS specific
+.DS_Store
+Thumbs.db

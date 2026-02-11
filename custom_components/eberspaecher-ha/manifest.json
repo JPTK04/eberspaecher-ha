@@ -1,0 +1,12 @@
+{
+  "domain": "eberspaecher-ha",
+  "name": "Eberspächer Standheizung",
+  "codeowners": ["@JPTK04"],
+  "config_flow": false,
+  "documentation": "https://github.com/JPTK04/eberspaecher-hass",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/JPTK04/eberspaecher-hass/issues",
+  "requirements": ["aiohttp"],
+  "version": "1.0.1",
+  "config_flow": true
+}

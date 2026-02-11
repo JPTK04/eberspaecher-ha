@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Mit Eberspächer verbinden",
+        "description": "Bitte gib deine Zugangsdaten für das EasyStart Web Portal ein."
+      }
+    },
+    "error": {
+      "invalid_auth": "Benutzername oder Passwort falsch."
+    },
+    "abort": {
+      "already_configured": "Konto ist bereits konfiguriert."
+    }
+  }
+}
